@@ -26,7 +26,7 @@
         "rateUsLink" : "",
         "moreGamesLink"     : "" ,
 
-		"OrderFile"     : "https://drive.google.com/uc?export=download&id=1oOXph9vEMbOE7urgEQHWs3Vc7a4kTa53" ,
+		"OrderFile"     : "https://raw.githubusercontent.com/G-DevSt/A-cxx2-Barry-Prison-1/4e213b842ea55b69aeec687d5e821c1a524fabef/file%20to%20upload/OrderFile.txt" ,
 		"crossPromotionImageURL"     : "",
 		"crossPromotionGameURL"     : ""
 }
