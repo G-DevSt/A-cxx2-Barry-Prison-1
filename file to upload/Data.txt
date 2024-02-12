@@ -9,7 +9,7 @@
         "ADMOBinterstitialID" : "ca-app-pub-3940256099942544/1033173712",
         "ADMOBrewardID"     : "ca-app-pub-3940256099942544/5224354917" ,
 
-        "UnityGameID" : "5538026",
+        "UnityGameID" : "5551797",
 		"UnityInterstitialID" : "Interstitial_Android",
 		"UnityRewardedID" : "Rewarded_Android",
 
