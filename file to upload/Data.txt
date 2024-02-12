@@ -1,0 +1,32 @@
+{
+        
+        "activeAds" : "YES",
+		"isVending" : "NO",
+        "adsCount"     : 3,
+
+        "ADMOBID" : "ca-app-pub-3940256099942544~3347511713",
+        "ADMOBbannerID"     : "ca-app-pub-3940256099942544/6300978111" ,
+        "ADMOBinterstitialID" : "ca-app-pub-3940256099942544/1033173712",
+        "ADMOBrewardID"     : "ca-app-pub-3940256099942544/5224354917" ,
+
+        "UnityGameID" : "5538026",
+		"UnityInterstitialID" : "Interstitial_Android",
+		"UnityRewardedID" : "Rewarded_Android",
+
+        "FANbannerID"     : "IMG_16_9_LINK#2109954819150266_2109957119150036" ,
+        "FANinterstitialID" : "IMG_16_9_LINK#2109954819150266_2109960142483067",
+        "FANrewardID"     : "IMG_16_9_LINK#2109954819150266_2109961085816306" ,
+
+        "MAXsdkKey" : "VUM-9bIldS5mM5b250fPppI3iqXL8oCdGZcQ9w9oMEXkK8mP8QpyE6_xxWH3IUhT2JzCD6-aLVJfd34nUuik-h",
+        "MAXbannerID"     : "6d9c0c25f6f347d3" ,
+        "MAXinterstitialID" : "ad7692cec4f86427",
+        "MAXrewardID"     : "533b0e5d353d46dc" ,
+
+        "termsOfServiceLink" : "https://sybogames.com/privacy-policy/",
+        "rateUsLink" : "",
+        "moreGamesLink"     : "" ,
+
+		"OrderFile"     : "https://drive.google.com/uc?export=download&id=1oOXph9vEMbOE7urgEQHWs3Vc7a4kTa53" ,
+		"crossPromotionImageURL"     : "",
+		"crossPromotionGameURL"     : ""
+}
